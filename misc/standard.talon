@@ -22,6 +22,8 @@ redo that: edit.redo()
 paste match: edit.paste_match_style()
 file save: edit.save()
 wipe: key(backspace)    
+backspace: key(backspace)    
+delete: key(delete)    
 (pad | padding): 
 	insert("  ") 
 	key(left)
