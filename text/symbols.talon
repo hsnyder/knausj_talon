@@ -59,3 +59,6 @@ quote that:
     text = edit.selected_text()
     user.paste('"{text}"')
 
+see peeyou: "CPU"
+jeepeeyou: "GPU"
+
