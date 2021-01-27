@@ -62,3 +62,4 @@ quote that:
 see peeyou: "CPU"
 jeepeeyou: "GPU"
 
+fortran: "fortran"
