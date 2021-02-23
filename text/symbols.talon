@@ -62,4 +62,7 @@ quote that:
 see peeyou: "CPU"
 jeepeeyou: "GPU"
 
+cryo spark: "cryoSPARC"
+
 fortran: "fortran"
+super: key(super)
