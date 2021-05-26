@@ -172,7 +172,6 @@ symbol_key_words = {
     "left square": "[",
     "R square": "]",
     "right square": "]",
-    "brace": "{",
     "left brace": "{",
     "R brace": "}",
     "right brace": "}",
